@@ -4,23 +4,22 @@ tags:
   - task
 roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
-
 # Introduction
 
 ---
 ## Tópicos abordados
 
-- [ ] Terminologia Comum
-	- [ ] LLM
-	- [ ] Token
-	- [ ] Janela de Contexto
-	- [ ] Alucinação
-	- [ ] Agentes
-	- [ ] Injeção de Prompts (prompt injection)
-	- [ ] Tamanho / Parâmetros de modelos
-	- [ ] Ajuste fino vs Engenharia de Prompt
-	- [ ] IA vs AGI
-	- [ ] RAG
+- [x] Terminologia Comum
+	- [x] LLM
+	- [x] Token
+	- [x] Janela de Contexto
+	- [x] Alucinação
+	- [x] Agentes
+	- [x] Injeção de Prompts (prompt injection)
+	- [x] Tamanho / Parâmetros de modelos
+	- [x] Ajuste fino vs Engenharia de Prompt
+	- [x] IA vs AGI
+	- [x] RAG
 - [ ] LLMs e como funcionam
 - [ ] Oque é um prompt?
 - [ ] Oque é Engenharia de Prompts?
