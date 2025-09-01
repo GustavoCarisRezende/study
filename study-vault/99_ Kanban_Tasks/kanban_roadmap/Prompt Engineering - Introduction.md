@@ -21,14 +21,14 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 	- [x] IA vs AGI
 	- [x] RAG
 - [x] LLMs e como funcionam
-- [ ] Oque é um prompt?
-- [ ] Oque é Engenharia de Prompts?
-- [ ] Conhecendo os principais modelos de LLMs
+- [x] Oque é um prompt?
+- [x] Oque é Engenharia de Prompts?
+- [x] Conhecendo os principais modelos de LLMs
 
 ---
 
 ## Referências Externas
-- [Referência X](https://google.com)
-- [Referência Y](https://google.com)
+- [OpenAI Models](platform.openai.com/docs/models)
+- [Anthropic Models](https://docs.anthropic.com/en/docs/about-claude/models/overview)
 
 ---

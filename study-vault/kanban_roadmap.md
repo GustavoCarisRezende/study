@@ -19,7 +19,6 @@ kanban-plugin: board
 
 ## Em progresso
 
-- [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Introduction|Prompt Engineering - Introduction]]
 
 
 ## Pausado
@@ -28,6 +27,7 @@ kanban-plugin: board
 
 ## Revisão
 
+- [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Introduction|Prompt Engineering - Introduction]]
 
 
 ## Finalizado

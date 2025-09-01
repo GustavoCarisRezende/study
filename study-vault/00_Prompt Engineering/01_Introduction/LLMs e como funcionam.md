@@ -7,7 +7,7 @@ topic: "[[00_Prompt Engineering/01_Introduction/_Introduction|_Introduction]]"
 
 ---
 ## **Resumo**
-Breve descrição do que será estudado.
+Uma visão geral sobre as LLMs (oque são) e como funcionam.
 
 ---
 ## **Conceitos Abordados**
