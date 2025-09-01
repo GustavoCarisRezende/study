@@ -20,7 +20,7 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 	- [x] Ajuste fino vs Engenharia de Prompt
 	- [x] IA vs AGI
 	- [x] RAG
-- [ ] LLMs e como funcionam
+- [x] LLMs e como funcionam
 - [ ] Oque é um prompt?
 - [ ] Oque é Engenharia de Prompts?
 - [ ] Conhecendo os principais modelos de LLMs

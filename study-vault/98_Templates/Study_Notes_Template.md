@@ -19,7 +19,7 @@ Texto sobre o tema 1
 Texto sobre o tema 2
 
 ---
-## **Conteúdos Adicionais**
+## **Conceitos Abordados**
 
 ### Conteúdo 1
 conteudo
