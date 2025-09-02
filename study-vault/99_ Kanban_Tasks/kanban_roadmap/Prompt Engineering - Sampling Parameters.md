@@ -10,9 +10,9 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
 ## Tópicos abordados
 
-- [ ] Temperatura
-- [ ] Top-K
-- [ ] Top-P
+- [x] Temperatura
+- [x] Top-K
+- [x] Top-P
 
 ---
 
