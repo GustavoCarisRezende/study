@@ -10,8 +10,8 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
 ## Tópicos abordados
 
-- [ ] Tokens Máximos
-- [ ] Parar sequências (Stop Sequences)
+- [x] Tokens Máximos
+- [x] Parar sequências (Stop Sequences)
 
 ---
 
