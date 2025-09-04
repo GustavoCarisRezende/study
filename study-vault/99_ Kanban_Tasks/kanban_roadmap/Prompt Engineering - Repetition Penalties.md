@@ -10,8 +10,8 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
 ## Tópicos abordados
 
-- [ ] Frequência de penalização (Frequency Penalty)
-- [ ] Punição por penalização (Presence Penalty)
+- [x] Frequência de penalização (Frequency Penalty)
+- [x] Punição por penalização (Presence Penalty)
 
 ---
 
