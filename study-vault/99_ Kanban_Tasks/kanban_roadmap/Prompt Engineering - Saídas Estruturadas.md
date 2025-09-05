@@ -10,9 +10,9 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
 ## Tópicos abordados
 
-- [ ] Como estruturar uma saída de prompt
-- [ ] Tipos de saída de prompt
-- [ ] Técnicas de saída de prompt
+- [x] Como estruturar uma saída de prompt
+- [x] Tipos de saída de prompt
+- [x] Técnicas de saída de prompt
 
 ---
 
