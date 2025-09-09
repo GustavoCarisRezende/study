@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Pendente
 
-- [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Prompting Techniques|Prompt Engineering - Prompting Techniques]]
 - [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Automatic Prompt Engineering|Prompt Engineering - Automatic Prompt Engineering]]
 - [ ] ~~Prompt Engineering - AI Red Teaming~~
 - [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Prompting Best Practices|Prompt Engineering - Prompting Best Practices]]
@@ -28,6 +27,7 @@ kanban-plugin: board
 - [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Output Control|Prompt Engineering - Output Control]]
 - [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Repetition Penalties|Prompt Engineering - Repetition Penalties]]
 - [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Saídas Estruturadas|Prompt Engineering Structured Outputs]]
+- [ ] [[99_ Kanban_Tasks/kanban_roadmap/Prompt Engineering - Prompting Techniques|Prompt Engineering - Prompting Techniques]]
 
 
 ## Finalizado
