@@ -2,7 +2,6 @@
 tags:
   - "#roadmap"
   - task
-roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
 # Introduction
 
@@ -28,7 +27,7 @@ roadmap: "[[00_Prompt Engineering/Prompt Engineering|Prompt Engineering]]"
 ---
 
 ## Referências Externas
-- [OpenAI Models](platform.openai.com/docs/models)
+- [OpenAI Models](https://platform.openai.com/docs/models)
 - [Anthropic Models](https://docs.anthropic.com/en/docs/about-claude/models/overview)
 
 ---

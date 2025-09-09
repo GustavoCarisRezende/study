@@ -2,7 +2,6 @@
 tags:
   - "#roadmap"
   - task
-roadmap: "[[Kanban_Card_Template]]"
 ---
 
 # Nome_da_Etapa
