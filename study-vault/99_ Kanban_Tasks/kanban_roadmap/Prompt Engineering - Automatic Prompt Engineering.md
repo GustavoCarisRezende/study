@@ -9,8 +9,8 @@ tags:
 ---
 ## Tópicos abordados
 
-- [ ] Automatic Prompt Engineering (APE)
-- [ ] Evaluating them using metrics (BLEU or ROUGE)
+- [x] Automatic Prompt Engineering (APE)
+- [x] Evaluating them using metrics (BLEU or ROUGE)
 
 ---
 

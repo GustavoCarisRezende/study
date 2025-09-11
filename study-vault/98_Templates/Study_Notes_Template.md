@@ -29,7 +29,7 @@ conteudo
 
 ---
 ## **Links e Referências**
-- [Artigo/Documentação](URL)
-- [Vídeo](URL)
+- [Artigo/Documentação](https://URL)
+- [Vídeo](https://URL)
 
 ---
